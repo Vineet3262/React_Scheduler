@@ -1,0 +1,38 @@
+.schudeler {
+    margin-top: 5px;
+}
+
+.day,
+.todayDay {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid #eaeaea;
+    background-color: #eaeaea;
+    font-weight: normal;
+}
+
+.todayDay {
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+.checkSchedule {
+    border: 1px solid lightgray;
+    padding: 11px;
+}
+
+.col-sm-1 {
+    padding-right: 0px !important;
+    width: 16.2% !important;
+}
+
+.scheduleTime {
+    width: 99px;
+    display: inline-block;
+}
+
+.weekDays {
+    color: red;
+}

@@ -1,0 +1,23 @@
+.topBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px 5px 5px;
+}
+
+.swapWeek {
+    color: blue;
+}
+
+.swap:hover {
+    cursor: pointer;
+}
+
+.timeZone {
+    padding: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+}
